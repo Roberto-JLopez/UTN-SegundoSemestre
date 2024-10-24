@@ -563,8 +563,7 @@ Introducción a las ramas o branches de Git parte 9</sub>
 <sub>
 Cuando entramos en el proyecto veremos que nos encontramos con la rama master, y es a partir de allí que debe saber que esta es la rama madre o principal rama, y las otras ramas se crean para no afectar a la master</sub>
 
-<sub>
-Las ramas (branches) son la forma de hacer cambios en nuestro proyecto sin afectar el flujo de trabajo de la rama principal. Esto porque queremos trabajar una parte muy específica de la aplicación o simplemente experimentar.</sub>
+<sub>Las ramas (branches) son la forma de hacer cambios en nuestro proyecto sin afectar el flujo de trabajo de la rama principal. Esto porque queremos trabajar una parte muy específica de la aplicación o simplemente experimentar.</sub>
 <sub>
 La cabecera o HEAD representan la rama y el commit de esa rama donde estamos trabajando. Por defecto, esta cabecera aparecerá en el último commit de nuestra rama principal. Pero podemos cambiarlo al crear una rama (git branch rama, git checkout -b rama) o movernos en el tiempo a cualquier otro commit de cualquier otra rama con los comandos (git reset id-commit, git checkout rama-o-id-commit).</sub>
 <sub>
@@ -572,8 +571,7 @@ Repasa: ¿Qué es Git?</sub>
 <sub>
 Cómo funcionan las ramas en GIT<sub>
 <sub>
-Las ramas son la manera de hacer cambios en nuestro proyecto sin afectar el flujo de trabajo de la rama principal. Esto porque queremos trabajar una parte muy específica de la aplicación o simplemente experimentar.
-</sub>
+Las ramas son la manera de hacer cambios en nuestro proyecto sin afectar el flujo de trabajo de la rama principal. Esto porque queremos trabajar una parte muy específica de la aplicación o simplemente experimentar.</sub>
 
 ```sh
 git branch nombre de la rama #Con este comando se genera una nueva rama.
@@ -1299,8 +1297,7 @@ Para invitar a un colaborador a tu proyecto en GitHub, sigue estos pasos:
 Del otro lado, el usuario invitado solo debe aceptar la invitación y ya podrá participar en el proyecto haciendo commits.
 ```
 ## Clase 05 - Miércoles 11 de Septiembre del 2024
-<sub>
- Git Tags y Versiones en GitHub</sub>
+<sub> Git Tags y Versiones en GitHub</sub>
 <sub>
 ¿Qué son los Git Tags?</sub>
 <sub>
@@ -1316,8 +1313,7 @@ Identificar releases: Señalizan las versiones del proyecto que se lanzan al pú
 <sub>
 Creación de Etiquetas en Git</sub>
 <sub>
-Para crear una nueva etiqueta en el commit actual, utiliza el siguiente comando:
-</sub> 
+Para crear una nueva etiqueta en el commit actual, utiliza el siguiente comando:</sub> 
 
 ![alt text](image.png)
 
